@@ -3,4 +3,9 @@
 h3 {
 	font-size: 20px;
 	color: red;
+	text-decoration: underline;
+}
+
+main {
+	background-color: #ddd;
 }
